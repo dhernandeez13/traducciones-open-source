@@ -32,8 +32,8 @@ My contribution included:
 
 ## 🖼️ Screenshots
 
-| English (Before) | Spanish (After) |
-|------------------|-----------------|
+|                                   |
+|-----------------------------------|
 |      ![](screenshots/FPSDisplay.png) 
 
 
